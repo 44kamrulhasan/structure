@@ -8,7 +8,7 @@
 /*[MU = Max User] and [ML = Max Length]*/
 
 // [USER INGO STORING]
-
+int a;
 typedef struct
 {
     char username[ML];

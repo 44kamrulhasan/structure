@@ -8,7 +8,7 @@ struct Person
     int id;      // Member variable for ID
     int age;     // Member variable for age
 };
-int a;
+
 // Function to input data for a person
 // void inputPerson(Person &p)
 // {
